@@ -1,0 +1,9 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "my personal site, along with some things I like to talk about",
+  "main": "index.js",
+  "repository": "https://github.com/Saad-Mufti/website.git",
+  "author": "Saad-Mufti <42655329+Saad-Mufti@users.noreply.github.com>",
+  "license": "MIT"
+}

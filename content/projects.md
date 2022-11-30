@@ -9,7 +9,7 @@ I decided to have a little fun with embedded devices by creating a status screen
 
 ## Using Reinforcement Learning (RL) to help students concentrate in classrooms
 ![object recognition in a large crowd](/img/cluster-labelling.png)
-For our CS 539 (Machine Learning) final project, a PhD student and I designed a reinforcement learning agent to help 
+For our CS 539 (Machine Learning) final project, a PhD student and I designed a reinforcement learning agent to help students focus in classrooms.
 [Read More](/classroom-rl.html)
 
 ## Developing a youth-focused chatbot app to target mental health challenges

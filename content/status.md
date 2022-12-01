@@ -5,7 +5,7 @@ Lately I've felt that I haven't done anything "fun" on an embedded device, since
 
 For example, a while back I made a prototype for a wearable device with sensors to attempt to detect when the wearer might be in danger, and the onboard GPS module would send a text via SMS to any trusted contacts, along with the local authorities. It ended up looking something like this:
 <!-- ![wearable device prototype](/img/wearable.jpg) -->
-<img src="../img/wearable.jpg" width="50%" height="50%"/>
+<img src="wearable.jpg" width="50%" height="50%"/>
 
 That was one of my first endeavors with embedded devices, and although the design presented significant challenges with my limited resources available, it was what really got me into building small but powerful things with tiny computers.
 
@@ -34,7 +34,7 @@ These metrics vary in difficulty to implement, so as of the time of writing, I o
 
 Here's what my dashboard looks like so far:
 <!-- ![status screen](/img/status.jpg) -->
-<img src="./website/img/status.jpg" width="50%" height="50%"/>
+<img src="./status.jpg" width="50%" height="50%"/>
 
 Regardless, there are clearly three sources where I can pull data from:
 1. My PC (connected to the MCU via USB)

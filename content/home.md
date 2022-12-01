@@ -15,7 +15,7 @@ That is, I hope I can get the readers of this page interested in software, compu
 
 ### Goals
 For the purposes of tracking my growth and keeping myself accountable to my targets as time passes, I've listed my (relatively) long-term goals here, in a loose chronological ordering:
-1. Finish my Master's program - I hope to finish my Bachelor's by the Spring of 2024, after which I plan to enroll in Georgia Tech's BS/MS program. My hope is that I can explore cutting-edge topics in computer architecture and VLSI. Naturally, if I want to stay on track and eligible, I need to maintain a high GPA and 
+1. Finish my Master's program - I hope to finish my Bachelor's by the Spring of 2024, after which I plan to enroll in Georgia Tech's BS/MS program. My hope is that I can explore cutting-edge topics in computer architecture and VLSI. Naturally, if I want to stay on track and eligible, I need to maintain a high GPA and take higher level classes during my final year, which will count towards my MS degree.
 2. I want to work at a startup that inspires me, within the next 3 years - startup companies are often the key primers for introducing a new product to the world that changes people's lives, and the individuals behind startups work fast and with remarkable efficiency. I hope to be a part of that. I've found Ampere Computing and Cerebrum to be the more innovative chip design companies lately, and I would love to join their teams!
-3. 
+3. Work on a new computing paradigm - Outside of conventional computing, neuromorphic computing and quantum computing are on the cusp of changing the world of computation. I want to be a part of these efforts and make an impact as well! To get into these emerging industries, I plan on sharing with you some projects I will be working on over the next few months or so, to familiarize myself with the basics. Check back soon!
 
